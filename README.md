@@ -75,7 +75,10 @@ MEASUREMENT OF BENDING LOSSES:
 	Keep reducing the diameter of bend to about 2 cm & take corresponding out voltage readings. (Do not reduce loop diameter less than 1 cm).
 	Plot a graph of the received signal amplitude versus the loop diameter.
 
- 
+ ## BLOCK DIAGRAM
+
+![Screenshot_20260325_094429_Drive](https://github.com/user-attachments/assets/1b0e7dbf-3f10-459b-9fed-2882af9d4b5a)
+
 
 **Tabulation:**
 
